@@ -15,6 +15,7 @@ Test title
     [Tags]    Open SAP
     SikuliLibrary.Open Application  C://Program Files (x86)//SAP//FrontEnd//SAPgui//saplgpad.exe
     Sleep  10
+    Open Connection  XPL
 
 *** Keywords ***
 Provided precondition
