@@ -6,6 +6,7 @@ Library    UserLib.py
 
 *** Variables ***
 
+
 *** Test Cases ***
 Open SAPlogon
     ${saplogon}=    Start Process  C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\saplgpad.exe  alias=process1
