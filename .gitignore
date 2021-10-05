@@ -142,6 +142,3 @@ idea/
 build
 .dist
 dist
-
-#
-venv
